@@ -8,7 +8,7 @@ class Smurfs extends Component {
       <div className="Smurfs">
         <h1>Smurf Village</h1>
         <ul>
-          {this.props.smurfs.map(smurf => {
+          {this.props.smurfData.map(smurf => {
             return (
               <Smurf
                 name={smurf.name}

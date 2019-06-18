@@ -1,3 +1,12 @@
 .App {
   text-align: center;
 }
+
+.Smurf {
+  border: 1px solid blue;
+  width: 33%;
+  margin: 2% auto;
+  color: white;
+  background: lightblue;
+
+}

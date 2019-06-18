@@ -2,4 +2,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-image: url('../src/fiona-smallwood-1660817-unsplash.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 50vh;
 }
